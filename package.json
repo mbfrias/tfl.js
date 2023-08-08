@@ -1,0 +1,32 @@
+{
+    "name": "tfl.js",
+    "version": "1.0.0",
+    "description": "A JavaScript library for the Transport for London API",
+    "main": "app/app.js",
+    "author": {
+        "name": "Martin Banks Frias",
+        "email": "martin@tub3.uk",
+        "url": "http://tub3.uk"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/t-ub3/tfl.js"
+    },
+    "keywords": [
+        "tfl",
+        "transport",
+        "london",
+        "api",
+        "javascript",
+        "js",
+        "library"
+    ],
+    "bugs": {
+        "url": "git+https://github.com/t-ub3/tfl.js/issues"
+    },
+    "dependencies": {
+        "axios": "^1.4.0",
+        "node": "^20.5.0"
+    }
+}
